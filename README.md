@@ -2,6 +2,7 @@
   <img src="https://github.com/abraao69/Setup-Docker-PHP-7.4/blob/master/logo.png" alt="Logo" width="200" height="100">
   <br><br>
 </div>
+<img src="https://i.ytimg.com/vi/SGQM7PU9hzI/maxresdefault.jpg" alt="Logo" width="200" height="100">
 
 ## Instalação do projeto Aplicativo-SocketIO-Chat RESTFULL com Javascript:
 
